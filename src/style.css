@@ -605,6 +605,10 @@ img { max-width: 100%; display: block; }
   z-index: -2;
 }
 
+.servico-img-motorista {
+  background-position: center 42%;
+}
+
 .servico-overlay {
   position: absolute;
   inset: 0;
